@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <uyeler>
+    <uye id="1">
+      <ad>Dilek</ad>
+      <yas>21</yas>
+      <ulke>TR</ulke>
+    </uye>
+    <uye id="2">
+      <ad>Ibrahim</ad>
+      <yas>12</yas>
+      <ulke>ALMANYA</ulke>
+    </uye>
+  </uyeler>
