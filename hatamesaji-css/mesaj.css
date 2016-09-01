@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* CSS Document */
+#hata {
+	font-family: Arial, Verdana, Tahoma;
+	font-size: 14px;
+	font-weight: bold;
+	color: #FFF;
+	background-color: #F00; /* F00: kirmizi */
+	padding: 5px;
+	width: 250px;
+}
+
+#eksik {
+        font-family: Arial, Verdana, Tahoma;
+        font-size: 14px;
+        font-weight: bold;
+        color: #FFF;
+        background-color: #09F; /* 09F: mavi */
+        padding: 5px;
+        width: 250px;
+}
+
+#dogru {
+        font-family: Arial, Verdana, Tahoma;
+        font-size: 14px;
+        font-weight: bold;
+        color: #FFF;
+        background-color: #0F6; /* 0F6: yesil */
+        padding: 5px;
+        width: 250px;
+}
+
