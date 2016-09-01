@@ -1,0 +1,11 @@
+/* Arama sonuclarinin listelendigi div elementi icin kullanilacak olan stil dosyasi */
+@charset "utf-8";
+.div {
+     background-color:#CCC;
+     display:block;
+     width:325px;
+     display:inline-block;
+     height:auto;
+     position:absolute;
+     padding:inherit;
+}
